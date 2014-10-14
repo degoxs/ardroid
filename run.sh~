@@ -1,0 +1,4 @@
+#!/bin/bash
+adb uninstall com.ubicom.ruta 
+adb install bin/RutaDrone-debug.apk 
+adb shell 'am start -n com.ubicom.ruta/.MainActivity'

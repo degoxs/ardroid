@@ -8,6 +8,7 @@
 /home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/MainActivity.class \
 /home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/MainActivity$1.class \
 /home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R.class \
+/home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/LocationDeviceHelper.class \
 /home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$id.class \
 /home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$attr.class \
 /home/issac/workspace/RutaDrone/bin/classes/com/ubicom/ruta/R$integer.class \

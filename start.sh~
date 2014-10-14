@@ -1,0 +1,3 @@
+#!/bin/bash
+
+abd shell 'start -n com.ubicom.ruta'
